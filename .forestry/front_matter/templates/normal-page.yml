@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   description: Page Title
+pages:
+- content/this-is-a-sample-page.md
