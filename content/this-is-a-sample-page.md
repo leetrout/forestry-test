@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "This is a sample page"
 
 +++
